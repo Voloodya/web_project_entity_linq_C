@@ -1,0 +1,197 @@
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\FastWater.dll.config
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\FastWater.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\FastWater.pdb
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\csc.exe
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\csc.exe.config
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\csc.rsp
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\csi.exe
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\csi.exe.config
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\csi.rsp
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.AppContext.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Collections.Immutable.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Console.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.IO.Compression.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.IO.FileSystem.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.IO.Pipes.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Reflection.Metadata.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.AccessControl.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.Claims.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.ValueTuple.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Xml.XPath.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\vbc.exe
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\vbc.exe.config
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\vbc.rsp
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\VBCSCompiler.exe
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\VBCSCompiler.exe.config
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\EntityFramework.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\EntityFramework.SqlServer.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\Microsoft.SqlServer.Types.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\EntityFramework.xml
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\EntityFramework.SqlServer.xml
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\ru\EntityFramework.resources.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\obj\Debug\FastWater.csprojAssemblyReference.cache
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\obj\Debug\FastWater.csproj.CoreCompileInputs.cache
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\obj\Debug\FastWater.csproj.CopyComplete
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\obj\Debug\FastWater.dll
+D:\Учеба ФМИТ 2 курс\FastWater\FastWater\obj\Debug\FastWater.pdb
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\SqlServerTypes\x64\msvcr120.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\SqlServerTypes\x86\msvcr120.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\FastWater.dll.config
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\FastWater.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\FastWater.pdb
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\csc.exe
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\csc.exe.config
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\csc.rsp
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\csi.exe
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\csi.exe.config
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\csi.rsp
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.AppContext.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Collections.Immutable.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Console.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.IO.Compression.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.IO.FileSystem.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.IO.Pipes.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Reflection.Metadata.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.AccessControl.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.Claims.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.ValueTuple.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Xml.XPath.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\vbc.exe
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\vbc.exe.config
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\vbc.rsp
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\VBCSCompiler.exe
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\roslyn\VBCSCompiler.exe.config
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\EntityFramework.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\EntityFramework.SqlServer.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\Microsoft.SqlServer.Types.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\EntityFramework.xml
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\EntityFramework.SqlServer.xml
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\bin\ru\EntityFramework.resources.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\obj\Debug\FastWater.csprojAssemblyReference.cache
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\obj\Debug\FastWater.csproj.CoreCompileInputs.cache
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\obj\Debug\FastWater.csproj.CopyComplete
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\obj\Debug\FastWater.dll
+E:\Учеба ФМИТ 2 курс\FastWater\FastWater\obj\Debug\FastWater.pdb
+E:\C#\Web_project_C\FastWater\bin\SqlServerTypes\x64\msvcr120.dll
+E:\C#\Web_project_C\FastWater\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\C#\Web_project_C\FastWater\bin\SqlServerTypes\x86\msvcr120.dll
+E:\C#\Web_project_C\FastWater\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\C#\Web_project_C\FastWater\bin\FastWater.dll.config
+E:\C#\Web_project_C\FastWater\bin\FastWater.dll
+E:\C#\Web_project_C\FastWater\bin\FastWater.pdb
+E:\C#\Web_project_C\FastWater\bin\roslyn\csc.exe
+E:\C#\Web_project_C\FastWater\bin\roslyn\csc.exe.config
+E:\C#\Web_project_C\FastWater\bin\roslyn\csc.rsp
+E:\C#\Web_project_C\FastWater\bin\roslyn\csi.exe
+E:\C#\Web_project_C\FastWater\bin\roslyn\csi.exe.config
+E:\C#\Web_project_C\FastWater\bin\roslyn\csi.rsp
+E:\C#\Web_project_C\FastWater\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\Web_project_C\FastWater\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\Microsoft.Managed.Core.targets
+E:\C#\Web_project_C\FastWater\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.AppContext.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Console.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.IO.Compression.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.IO.FileSystem.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.IO.Pipes.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Security.AccessControl.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Security.Claims.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Security.Principal.Windows.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.ValueTuple.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Xml.XmlDocument.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Xml.XPath.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\C#\Web_project_C\FastWater\bin\roslyn\vbc.exe
+E:\C#\Web_project_C\FastWater\bin\roslyn\vbc.exe.config
+E:\C#\Web_project_C\FastWater\bin\roslyn\vbc.rsp
+E:\C#\Web_project_C\FastWater\bin\roslyn\VBCSCompiler.exe
+E:\C#\Web_project_C\FastWater\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\Web_project_C\FastWater\bin\EntityFramework.dll
+E:\C#\Web_project_C\FastWater\bin\EntityFramework.SqlServer.dll
+E:\C#\Web_project_C\FastWater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#\Web_project_C\FastWater\bin\Microsoft.SqlServer.Types.dll
+E:\C#\Web_project_C\FastWater\bin\EntityFramework.xml
+E:\C#\Web_project_C\FastWater\bin\EntityFramework.SqlServer.xml
+E:\C#\Web_project_C\FastWater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#\Web_project_C\FastWater\bin\ru\EntityFramework.resources.dll
+E:\C#\Web_project_C\FastWater\obj\Debug\FastWater.csprojAssemblyReference.cache
+E:\C#\Web_project_C\FastWater\obj\Debug\FastWater.csproj.CopyComplete
+E:\C#\Web_project_C\FastWater\obj\Debug\FastWater.dll
+E:\C#\Web_project_C\FastWater\obj\Debug\FastWater.pdb
